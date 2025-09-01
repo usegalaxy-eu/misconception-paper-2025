@@ -1,0 +1,11 @@
+name: misconception-paper-2025
+channels:
+- conda-forge
+- defaults
+- bioconda
+dependencies:
+- jupyter
+- pandas
+- matplotlib
+- pyzotero
+- scholarly
