@@ -27,4 +27,11 @@ This repository includes all the scripts written to produce figures in the paper
 - Go to [http://localhost:8888](http://localhost:8888) (a page should open automatically in your browser)
 - Open 
     - `explore_publications.ipynb` to retrieve publications and citations
+    - `extract_tool_changes.ipynb` to retrieve tool updates on Galaxy Europe
+
+        Before running the notebook, a GitHub token needs to be provided by creating a `.env` file and filling it like with:
+
+        ```
+        GITHUB_TOKEN="<your_github_token>"
+        ```
 
