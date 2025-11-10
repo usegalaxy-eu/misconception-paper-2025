@@ -35,3 +35,5 @@ This repository includes all the scripts written to produce figures in the paper
         GITHUB_TOKEN="<your_github_token>"
         ```
 
+    
+    - `plot_usegalaxy_stats.ipynb` to plot the number of distinct users and jobs per month on the EU, ORG, and AUS servers
