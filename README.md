@@ -2,6 +2,8 @@
 
 This repository includes all the scripts written to produce figures in the paper along with the resulted figures
 
+Bacon WA, Batut B, Srikakulam SK, Zierep P, Bretaudeau A, et al. (2026) Ten common misconceptions about Galaxy (and why they are wrong!). PLOS Computational Biology 22(2): e1013869. https://doi.org/10.1371/journal.pcbi.1013869
+
 ## Requirements
 
 - Install [conda](https://conda.io/miniconda.html)
